@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+.glass {
+  backdrop-filter: saturate(180%) blur(50px);
+  background-color: rgba(255, 253, 253, 0);
+  
+}
