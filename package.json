@@ -1,5 +1,15 @@
 {
-  "dependencies": {
+  "name": "prodeskit",
+  "version": "1.0.0",
+  "description": "```\r npm i nodejs \r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
     "@tailwindcss/cli": "^4.1.18",
     "tailwindcss": "^4.1.18"
   }
